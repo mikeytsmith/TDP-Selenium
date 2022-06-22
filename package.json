@@ -1,0 +1,24 @@
+{
+  "name": "tdp-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha testGoogle.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeytsmith/TDP-Selenium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeytsmith/TDP-Selenium/issues"
+  },
+  "homepage": "https://github.com/mikeytsmith/TDP-Selenium#readme",
+  "dependencies": {
+    "chromedriver": "^102.0.0",
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.2.0"
+  }
+}
